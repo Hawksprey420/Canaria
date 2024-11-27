@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Canaria (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Canaria (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
